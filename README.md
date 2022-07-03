@@ -5,4 +5,4 @@ NOTE: These will be big files, as there are 543 Notable skills[includes ascendan
 
 Download the zip file of the Jewels you are interested in, remove the columns which you are not interested in and sort the rows by your choice.
 
-Adding more one by one when I can.
+4 timeless jewels are done. Glorious Vanity is complicated at the moment to work with so skipping this for now.
