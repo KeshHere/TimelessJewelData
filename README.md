@@ -1,4 +1,4 @@
-# TimelessJewelData 3.21
+# TimelessJewelData
 #UPDATE
 NOTE : Please check the names of addition mods especially in Brutal Restraint and Lethal Pride as they have CHANGED as below.
 
