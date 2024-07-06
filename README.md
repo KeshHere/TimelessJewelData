@@ -12,6 +12,6 @@ In Militant faith "base_devotion" has been renamed to "devotion"
 
 In Glorious vanity Might of the vaal and Legacy of the Vaal has been merged into "Might/legacy of the vaal"
         
-This is collection of all seeds of different Timeless Jewels in Path Of Exile. Dated - April 2023
+This is collection of all seeds of different Timeless Jewels in Path Of Exile. Dated - June 2024
 
 All 5 timeless jewels are done.
